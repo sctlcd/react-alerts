@@ -1,9 +1,12 @@
 import './App.css';
+import Alert from './components/Alert';
 
 function App() {
   return (
     <div className="App">
-      <div>It's working</div>
+      <div className='container mx-auto'>
+        <Alert />
+      </div>
     </div>
   );
 }
