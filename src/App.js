@@ -5,7 +5,9 @@ function App() {
   return (
     <div className="App">
       <div className='container mx-auto'>
-        <Alert />
+        <Alert 
+          type={"info"}
+        />
       </div>
     </div>
   );
