@@ -1,5 +1,10 @@
-import React from 'react';
+import React, {useState, useEffect} from 'react';
 
 export default function Alert() {
-  return <div>Alert</div>;
+  const [showAlert, setShowAlert] = useState(true);
+  return (
+    showAlert && (
+    <div className='alert'>Alert</div>
+    )
+  );
 }
