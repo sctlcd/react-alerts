@@ -13,6 +13,13 @@ function App() {
           type={"success"}
           message= {"Congrats on your level up!"}
           delay={true}
+          delayTime={3000}
+        />
+        <Alert 
+          type={"danger"}
+          message= {"Loser! Try again!"}
+          delay={true}
+          delayTime={5000}
         />
       </div>
     </div>
