@@ -27,8 +27,7 @@
 
 ## Introduction <a name="introduction"></a>
 
-Creating an api requests app using [React](https://reactjs.org/) and [{JSON} Placeholder](https://jsonplaceholder.typicode.com/).
-
+Creating alerts using [React](https://reactjs.org/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
