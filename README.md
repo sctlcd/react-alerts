@@ -227,8 +227,7 @@ Back to [top](#tableOfContents)
     - Development Command: react-scripts start
     - Install Command: `yarn install`, `pnpm install`, `npm install`, or `bun install`
     - Output Directory: build
-    ? Want to modify these settings? yes
-    ? Which settings would you like to overwrite (select multiple)?
+    ? Want to modify these settings? no
     🔗  Linked to sctlcds-projects/react-alerts (created .vercel and added it to .gitignore)
     🔍  Inspect: https://vercel.com/sctlcds-projects/react-alerts/5ftNRUrzpM6NqrxTt1snhqnGLSFo
     ✅  Production: https://react-alerts-ldxp3c4yq-sctlcds-projects.vercel.app
